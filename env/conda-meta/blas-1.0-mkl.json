@@ -9,6 +9,7 @@
   "files": [],
   "fn": "blas-1.0-mkl.conda",
   "legacy_bz2_md5": "751c2c5b239a728db05f91374aaac3a1",
+  "legacy_bz2_size": 5838,
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/blas-1.0-mkl",
     "type": 1

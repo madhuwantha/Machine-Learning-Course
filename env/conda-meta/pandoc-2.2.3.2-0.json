@@ -15,6 +15,7 @@
   ],
   "fn": "pandoc-2.2.3.2-0.conda",
   "legacy_bz2_md5": "1732f3c7f5300ae2616cdf46fa61c768",
+  "legacy_bz2_size": 21778766,
   "license": "GPL-2.0",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/pandoc-2.2.3.2-0",

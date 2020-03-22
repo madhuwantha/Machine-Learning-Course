@@ -177,6 +177,7 @@
   ],
   "fn": "gstreamer-1.14.0-hb453b48_1.conda",
   "legacy_bz2_md5": "c76b52069ea63fc59a9b6074b2084657",
+  "legacy_bz2_size": 4022762,
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/gstreamer-1.14.0-hb453b48_1",
     "type": 1

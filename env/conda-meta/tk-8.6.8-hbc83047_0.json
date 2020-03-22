@@ -503,6 +503,7 @@
   ],
   "fn": "tk-8.6.8-hbc83047_0.conda",
   "legacy_bz2_md5": "7cfa80461710ca1d25a692d28738cfd3",
+  "legacy_bz2_size": 3295425,
   "license": "Tcl/Tk",
   "license_family": "BSD",
   "link": {

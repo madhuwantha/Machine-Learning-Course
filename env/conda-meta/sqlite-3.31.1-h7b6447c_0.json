@@ -21,6 +21,7 @@
   ],
   "fn": "sqlite-3.31.1-h7b6447c_0.conda",
   "legacy_bz2_md5": "3eeff1732f5a15b2bb40c3d4ca5e4557",
+  "legacy_bz2_size": 2076136,
   "license": "Public-Domain (http://www.sqlite.org/copyright.html)",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/sqlite-3.31.1-h7b6447c_0",

@@ -9,28 +9,29 @@
   "extracted_package_dir": "/home/hatadmin/miniconda3/pkgs/wcwidth-0.1.8-py_0",
   "features": "",
   "files": [
-    "lib/python3.8/site-packages/wcwidth-0.1.8.dist-info/INSTALLER",
-    "lib/python3.8/site-packages/wcwidth-0.1.8.dist-info/LICENSE.txt",
-    "lib/python3.8/site-packages/wcwidth-0.1.8.dist-info/METADATA",
-    "lib/python3.8/site-packages/wcwidth-0.1.8.dist-info/RECORD",
-    "lib/python3.8/site-packages/wcwidth-0.1.8.dist-info/WHEEL",
-    "lib/python3.8/site-packages/wcwidth-0.1.8.dist-info/top_level.txt",
-    "lib/python3.8/site-packages/wcwidth-0.1.8.dist-info/zip-safe",
-    "lib/python3.8/site-packages/wcwidth/__init__.py",
-    "lib/python3.8/site-packages/wcwidth/table_wide.py",
-    "lib/python3.8/site-packages/wcwidth/table_zero.py",
-    "lib/python3.8/site-packages/wcwidth/tests/__init__.py",
-    "lib/python3.8/site-packages/wcwidth/tests/test_core.py",
-    "lib/python3.8/site-packages/wcwidth/wcwidth.py",
-    "lib/python3.8/site-packages/wcwidth/__pycache__/__init__.cpython-38.pyc",
-    "lib/python3.8/site-packages/wcwidth/__pycache__/table_wide.cpython-38.pyc",
-    "lib/python3.8/site-packages/wcwidth/__pycache__/table_zero.cpython-38.pyc",
-    "lib/python3.8/site-packages/wcwidth/tests/__pycache__/__init__.cpython-38.pyc",
-    "lib/python3.8/site-packages/wcwidth/tests/__pycache__/test_core.cpython-38.pyc",
-    "lib/python3.8/site-packages/wcwidth/__pycache__/wcwidth.cpython-38.pyc"
+    "lib/python3.6/site-packages/wcwidth-0.1.8.dist-info/INSTALLER",
+    "lib/python3.6/site-packages/wcwidth-0.1.8.dist-info/LICENSE.txt",
+    "lib/python3.6/site-packages/wcwidth-0.1.8.dist-info/METADATA",
+    "lib/python3.6/site-packages/wcwidth-0.1.8.dist-info/RECORD",
+    "lib/python3.6/site-packages/wcwidth-0.1.8.dist-info/WHEEL",
+    "lib/python3.6/site-packages/wcwidth-0.1.8.dist-info/top_level.txt",
+    "lib/python3.6/site-packages/wcwidth-0.1.8.dist-info/zip-safe",
+    "lib/python3.6/site-packages/wcwidth/__init__.py",
+    "lib/python3.6/site-packages/wcwidth/table_wide.py",
+    "lib/python3.6/site-packages/wcwidth/table_zero.py",
+    "lib/python3.6/site-packages/wcwidth/tests/__init__.py",
+    "lib/python3.6/site-packages/wcwidth/tests/test_core.py",
+    "lib/python3.6/site-packages/wcwidth/wcwidth.py",
+    "lib/python3.6/site-packages/wcwidth/__pycache__/__init__.cpython-36.pyc",
+    "lib/python3.6/site-packages/wcwidth/__pycache__/table_wide.cpython-36.pyc",
+    "lib/python3.6/site-packages/wcwidth/__pycache__/table_zero.cpython-36.pyc",
+    "lib/python3.6/site-packages/wcwidth/tests/__pycache__/__init__.cpython-36.pyc",
+    "lib/python3.6/site-packages/wcwidth/tests/__pycache__/test_core.cpython-36.pyc",
+    "lib/python3.6/site-packages/wcwidth/__pycache__/wcwidth.cpython-36.pyc"
   ],
   "fn": "wcwidth-0.1.8-py_0.conda",
   "legacy_bz2_md5": "da2fb36d979c7fe531be4dbd3c37a361",
+  "legacy_bz2_size": 22116,
   "license": "MIT",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/wcwidth-0.1.8-py_0",
@@ -135,27 +136,27 @@
         "size_in_bytes": 7380
       },
       {
-        "_path": "lib/python3.8/site-packages/wcwidth/__pycache__/__init__.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/wcwidth/__pycache__/__init__.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/wcwidth/__pycache__/table_wide.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/wcwidth/__pycache__/table_wide.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/wcwidth/__pycache__/table_zero.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/wcwidth/__pycache__/table_zero.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/wcwidth/tests/__pycache__/__init__.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/wcwidth/tests/__pycache__/__init__.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/wcwidth/tests/__pycache__/test_core.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/wcwidth/tests/__pycache__/test_core.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/wcwidth/__pycache__/wcwidth.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/wcwidth/__pycache__/wcwidth.cpython-36.pyc",
         "path_type": "pyc_file"
       }
     ],

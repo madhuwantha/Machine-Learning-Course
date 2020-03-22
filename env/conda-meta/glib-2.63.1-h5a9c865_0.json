@@ -454,6 +454,7 @@
   ],
   "fn": "glib-2.63.1-h5a9c865_0.conda",
   "legacy_bz2_md5": "dad669f1119b1062e12933cebe0302ec",
+  "legacy_bz2_size": 3534165,
   "license": "LGPL-2.1",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/glib-2.63.1-h5a9c865_0",

@@ -9,33 +9,33 @@
   "extracted_package_dir": "/home/hatadmin/miniconda3/pkgs/defusedxml-0.6.0-py_0",
   "features": "",
   "files": [
-    "lib/python3.8/site-packages/defusedxml-0.6.0-py2.7.egg-info/PKG-INFO",
-    "lib/python3.8/site-packages/defusedxml-0.6.0-py2.7.egg-info/SOURCES.txt",
-    "lib/python3.8/site-packages/defusedxml-0.6.0-py2.7.egg-info/dependency_links.txt",
-    "lib/python3.8/site-packages/defusedxml-0.6.0-py2.7.egg-info/installed-files.txt",
-    "lib/python3.8/site-packages/defusedxml-0.6.0-py2.7.egg-info/top_level.txt",
-    "lib/python3.8/site-packages/defusedxml/ElementTree.py",
-    "lib/python3.8/site-packages/defusedxml/__init__.py",
-    "lib/python3.8/site-packages/defusedxml/cElementTree.py",
-    "lib/python3.8/site-packages/defusedxml/common.py",
-    "lib/python3.8/site-packages/defusedxml/expatbuilder.py",
-    "lib/python3.8/site-packages/defusedxml/expatreader.py",
-    "lib/python3.8/site-packages/defusedxml/lxml.py",
-    "lib/python3.8/site-packages/defusedxml/minidom.py",
-    "lib/python3.8/site-packages/defusedxml/pulldom.py",
-    "lib/python3.8/site-packages/defusedxml/sax.py",
-    "lib/python3.8/site-packages/defusedxml/xmlrpc.py",
-    "lib/python3.8/site-packages/defusedxml/__pycache__/ElementTree.cpython-38.pyc",
-    "lib/python3.8/site-packages/defusedxml/__pycache__/__init__.cpython-38.pyc",
-    "lib/python3.8/site-packages/defusedxml/__pycache__/cElementTree.cpython-38.pyc",
-    "lib/python3.8/site-packages/defusedxml/__pycache__/common.cpython-38.pyc",
-    "lib/python3.8/site-packages/defusedxml/__pycache__/expatbuilder.cpython-38.pyc",
-    "lib/python3.8/site-packages/defusedxml/__pycache__/expatreader.cpython-38.pyc",
-    "lib/python3.8/site-packages/defusedxml/__pycache__/lxml.cpython-38.pyc",
-    "lib/python3.8/site-packages/defusedxml/__pycache__/minidom.cpython-38.pyc",
-    "lib/python3.8/site-packages/defusedxml/__pycache__/pulldom.cpython-38.pyc",
-    "lib/python3.8/site-packages/defusedxml/__pycache__/sax.cpython-38.pyc",
-    "lib/python3.8/site-packages/defusedxml/__pycache__/xmlrpc.cpython-38.pyc"
+    "lib/python3.6/site-packages/defusedxml-0.6.0-py2.7.egg-info/PKG-INFO",
+    "lib/python3.6/site-packages/defusedxml-0.6.0-py2.7.egg-info/SOURCES.txt",
+    "lib/python3.6/site-packages/defusedxml-0.6.0-py2.7.egg-info/dependency_links.txt",
+    "lib/python3.6/site-packages/defusedxml-0.6.0-py2.7.egg-info/installed-files.txt",
+    "lib/python3.6/site-packages/defusedxml-0.6.0-py2.7.egg-info/top_level.txt",
+    "lib/python3.6/site-packages/defusedxml/ElementTree.py",
+    "lib/python3.6/site-packages/defusedxml/__init__.py",
+    "lib/python3.6/site-packages/defusedxml/cElementTree.py",
+    "lib/python3.6/site-packages/defusedxml/common.py",
+    "lib/python3.6/site-packages/defusedxml/expatbuilder.py",
+    "lib/python3.6/site-packages/defusedxml/expatreader.py",
+    "lib/python3.6/site-packages/defusedxml/lxml.py",
+    "lib/python3.6/site-packages/defusedxml/minidom.py",
+    "lib/python3.6/site-packages/defusedxml/pulldom.py",
+    "lib/python3.6/site-packages/defusedxml/sax.py",
+    "lib/python3.6/site-packages/defusedxml/xmlrpc.py",
+    "lib/python3.6/site-packages/defusedxml/__pycache__/ElementTree.cpython-36.pyc",
+    "lib/python3.6/site-packages/defusedxml/__pycache__/__init__.cpython-36.pyc",
+    "lib/python3.6/site-packages/defusedxml/__pycache__/cElementTree.cpython-36.pyc",
+    "lib/python3.6/site-packages/defusedxml/__pycache__/common.cpython-36.pyc",
+    "lib/python3.6/site-packages/defusedxml/__pycache__/expatbuilder.cpython-36.pyc",
+    "lib/python3.6/site-packages/defusedxml/__pycache__/expatreader.cpython-36.pyc",
+    "lib/python3.6/site-packages/defusedxml/__pycache__/lxml.cpython-36.pyc",
+    "lib/python3.6/site-packages/defusedxml/__pycache__/minidom.cpython-36.pyc",
+    "lib/python3.6/site-packages/defusedxml/__pycache__/pulldom.cpython-36.pyc",
+    "lib/python3.6/site-packages/defusedxml/__pycache__/sax.cpython-36.pyc",
+    "lib/python3.6/site-packages/defusedxml/__pycache__/xmlrpc.cpython-36.pyc"
   ],
   "fn": "defusedxml-0.6.0-py_0.tar.bz2",
   "license": "PSF 2.0",
@@ -164,47 +164,47 @@
         "size_in_bytes": 5364
       },
       {
-        "_path": "lib/python3.8/site-packages/defusedxml/__pycache__/ElementTree.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/defusedxml/__pycache__/ElementTree.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/defusedxml/__pycache__/__init__.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/defusedxml/__pycache__/__init__.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/defusedxml/__pycache__/cElementTree.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/defusedxml/__pycache__/cElementTree.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/defusedxml/__pycache__/common.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/defusedxml/__pycache__/common.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/defusedxml/__pycache__/expatbuilder.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/defusedxml/__pycache__/expatbuilder.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/defusedxml/__pycache__/expatreader.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/defusedxml/__pycache__/expatreader.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/defusedxml/__pycache__/lxml.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/defusedxml/__pycache__/lxml.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/defusedxml/__pycache__/minidom.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/defusedxml/__pycache__/minidom.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/defusedxml/__pycache__/pulldom.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/defusedxml/__pycache__/pulldom.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/defusedxml/__pycache__/sax.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/defusedxml/__pycache__/sax.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/defusedxml/__pycache__/xmlrpc.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/defusedxml/__pycache__/xmlrpc.cpython-36.pyc",
         "path_type": "pyc_file"
       }
     ],

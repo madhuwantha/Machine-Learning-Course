@@ -62,6 +62,7 @@
   ],
   "fn": "libedit-3.1.20181209-hc058e9b_0.conda",
   "legacy_bz2_md5": "bd18612aa844e6c52e3b659cbaa706ea",
+  "legacy_bz2_size": 192019,
   "license": "NetBSD",
   "license_family": "BSD",
   "link": {

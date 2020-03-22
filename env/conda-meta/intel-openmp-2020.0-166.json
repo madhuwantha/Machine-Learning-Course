@@ -15,6 +15,7 @@
   ],
   "fn": "intel-openmp-2020.0-166.conda",
   "legacy_bz2_md5": "dcdad8d3be0b7bc528e198450524a368",
+  "legacy_bz2_size": 938116,
   "license": "proprietary - Intel",
   "license_family": "Proprietary",
   "link": {

@@ -79,6 +79,7 @@
   ],
   "fn": "libsodium-1.0.16-h1bed415_0.conda",
   "legacy_bz2_md5": "d6da2bc1d41ffc4906f7502b233d487d",
+  "legacy_bz2_size": 309669,
   "license": "ISC",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/libsodium-1.0.16-h1bed415_0",

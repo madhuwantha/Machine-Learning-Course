@@ -28,6 +28,7 @@
   ],
   "fn": "gmp-6.1.2-h6c8ec71_1.conda",
   "legacy_bz2_md5": "6344038378cefeb1e4010852183a497d",
+  "legacy_bz2_size": 762286,
   "license": "GPL 2 and LGPL 3",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/gmp-6.1.2-h6c8ec71_1",

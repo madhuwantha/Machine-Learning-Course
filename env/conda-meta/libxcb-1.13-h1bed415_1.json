@@ -188,6 +188,7 @@
   ],
   "fn": "libxcb-1.13-h1bed415_1.conda",
   "legacy_bz2_md5": "a30332027922e249a80c25faea2f3b34",
+  "legacy_bz2_size": 513561,
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/libxcb-1.13-h1bed415_1",
     "type": 1

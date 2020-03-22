@@ -72,6 +72,7 @@
   ],
   "fn": "freetype-2.9.1-h8a8886c_1.conda",
   "legacy_bz2_md5": "f14a8bdc57f97e2feec097ff3f0d06aa",
+  "legacy_bz2_size": 842173,
   "license": "GPL-2.0 and FreeType",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/freetype-2.9.1-h8a8886c_1",

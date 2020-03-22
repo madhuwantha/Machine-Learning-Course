@@ -1,5 +1,4 @@
-#!/home/hatadmin/Documents/ML/sample_project/env/bin/python
-
+#!/home/hatadmin/Documents/ML/sample_project/env/bin/python3.6
 # -*- coding: utf-8 -*-
 import re
 import sys

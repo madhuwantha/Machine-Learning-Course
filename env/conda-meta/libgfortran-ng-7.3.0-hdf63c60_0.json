@@ -17,6 +17,7 @@
   ],
   "fn": "libgfortran-ng-7.3.0-hdf63c60_0.conda",
   "legacy_bz2_md5": "6003e09e8cef9aca91b954abfdd0f39c",
+  "legacy_bz2_size": 1336385,
   "license": "GPL",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/libgfortran-ng-7.3.0-hdf63c60_0",

@@ -9186,6 +9186,7 @@
   ],
   "fn": "qt-5.9.7-h5867ecd_1.conda",
   "legacy_bz2_md5": "50da300935a335f7605d3f96fa045111",
+  "legacy_bz2_size": 90037659,
   "license": "LGPL-3.0",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/qt-5.9.7-h5867ecd_1",

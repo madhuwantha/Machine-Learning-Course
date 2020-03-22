@@ -34,6 +34,7 @@
   ],
   "fn": "libpng-1.6.37-hbc83047_0.conda",
   "legacy_bz2_md5": "9cb85601944ca7383b1769bff74b94e8",
+  "legacy_bz2_size": 372914,
   "license": "zlib/libpng",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/libpng-1.6.37-hbc83047_0",

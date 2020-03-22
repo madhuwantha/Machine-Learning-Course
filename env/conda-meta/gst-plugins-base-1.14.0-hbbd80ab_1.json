@@ -300,6 +300,7 @@
   ],
   "fn": "gst-plugins-base-1.14.0-hbbd80ab_1.conda",
   "legacy_bz2_md5": "d0d3ac97d7a559d27b9e99959db81207",
+  "legacy_bz2_size": 6555655,
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/gst-plugins-base-1.14.0-hbbd80ab_1",
     "type": 1

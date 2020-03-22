@@ -19,6 +19,7 @@
   ],
   "fn": "libuuid-1.0.3-h1bed415_2.conda",
   "legacy_bz2_md5": "c139036e48b27c84ab08cdd18369851a",
+  "legacy_bz2_size": 16335,
   "license": "BSD 3-Clause",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/libuuid-1.0.3-h1bed415_2",

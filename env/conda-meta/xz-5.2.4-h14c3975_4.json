@@ -104,6 +104,7 @@
   ],
   "fn": "xz-5.2.4-h14c3975_4.conda",
   "legacy_bz2_md5": "496e0e34e1c9710bd307765767318269",
+  "legacy_bz2_size": 374500,
   "license": "LGPL-2.1 and GPL-2.0",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/xz-5.2.4-h14c3975_4",

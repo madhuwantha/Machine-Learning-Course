@@ -62,6 +62,7 @@
   ],
   "fn": "dbus-1.13.12-h746ee38_0.conda",
   "legacy_bz2_md5": "cb8832c2e3e60f657c99bde6b0d8ae60",
+  "legacy_bz2_size": 625785,
   "license": "GPL2",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/dbus-1.13.12-h746ee38_0",

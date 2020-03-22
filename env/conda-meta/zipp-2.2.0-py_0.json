@@ -9,17 +9,18 @@
   "extracted_package_dir": "/home/hatadmin/miniconda3/pkgs/zipp-2.2.0-py_0",
   "features": "",
   "files": [
-    "lib/python3.8/site-packages/zipp-2.2.0.dist-info/INSTALLER",
-    "lib/python3.8/site-packages/zipp-2.2.0.dist-info/LICENSE",
-    "lib/python3.8/site-packages/zipp-2.2.0.dist-info/METADATA",
-    "lib/python3.8/site-packages/zipp-2.2.0.dist-info/RECORD",
-    "lib/python3.8/site-packages/zipp-2.2.0.dist-info/WHEEL",
-    "lib/python3.8/site-packages/zipp-2.2.0.dist-info/top_level.txt",
-    "lib/python3.8/site-packages/zipp.py",
-    "lib/python3.8/site-packages/__pycache__/zipp.cpython-38.pyc"
+    "lib/python3.6/site-packages/zipp-2.2.0.dist-info/INSTALLER",
+    "lib/python3.6/site-packages/zipp-2.2.0.dist-info/LICENSE",
+    "lib/python3.6/site-packages/zipp-2.2.0.dist-info/METADATA",
+    "lib/python3.6/site-packages/zipp-2.2.0.dist-info/RECORD",
+    "lib/python3.6/site-packages/zipp-2.2.0.dist-info/WHEEL",
+    "lib/python3.6/site-packages/zipp-2.2.0.dist-info/top_level.txt",
+    "lib/python3.6/site-packages/zipp.py",
+    "lib/python3.6/site-packages/__pycache__/zipp.cpython-36.pyc"
   ],
   "fn": "zipp-2.2.0-py_0.conda",
   "legacy_bz2_md5": "b90e2234ae2cd5044fb5add9ff340327",
+  "legacy_bz2_size": 12289,
   "license": "MIT",
   "license_family": "MIT",
   "link": {
@@ -83,7 +84,7 @@
         "size_in_bytes": 6339
       },
       {
-        "_path": "lib/python3.8/site-packages/__pycache__/zipp.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/__pycache__/zipp.cpython-36.pyc",
         "path_type": "pyc_file"
       }
     ],

@@ -9,17 +9,18 @@
   "extracted_package_dir": "/home/hatadmin/miniconda3/pkgs/pyparsing-2.4.6-py_0",
   "features": "",
   "files": [
-    "lib/python3.8/site-packages/pyparsing-2.4.6.dist-info/INSTALLER",
-    "lib/python3.8/site-packages/pyparsing-2.4.6.dist-info/LICENSE",
-    "lib/python3.8/site-packages/pyparsing-2.4.6.dist-info/METADATA",
-    "lib/python3.8/site-packages/pyparsing-2.4.6.dist-info/RECORD",
-    "lib/python3.8/site-packages/pyparsing-2.4.6.dist-info/WHEEL",
-    "lib/python3.8/site-packages/pyparsing-2.4.6.dist-info/top_level.txt",
-    "lib/python3.8/site-packages/pyparsing.py",
-    "lib/python3.8/site-packages/__pycache__/pyparsing.cpython-38.pyc"
+    "lib/python3.6/site-packages/pyparsing-2.4.6.dist-info/INSTALLER",
+    "lib/python3.6/site-packages/pyparsing-2.4.6.dist-info/LICENSE",
+    "lib/python3.6/site-packages/pyparsing-2.4.6.dist-info/METADATA",
+    "lib/python3.6/site-packages/pyparsing-2.4.6.dist-info/RECORD",
+    "lib/python3.6/site-packages/pyparsing-2.4.6.dist-info/WHEEL",
+    "lib/python3.6/site-packages/pyparsing-2.4.6.dist-info/top_level.txt",
+    "lib/python3.6/site-packages/pyparsing.py",
+    "lib/python3.6/site-packages/__pycache__/pyparsing.cpython-36.pyc"
   ],
   "fn": "pyparsing-2.4.6-py_0.conda",
   "legacy_bz2_md5": "e73a18954fa12bdfebf3c6e235a214af",
+  "legacy_bz2_size": 65246,
   "license": "MIT",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/pyparsing-2.4.6-py_0",
@@ -82,7 +83,7 @@
         "size_in_bytes": 272400
       },
       {
-        "_path": "lib/python3.8/site-packages/__pycache__/pyparsing.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/__pycache__/pyparsing.cpython-36.pyc",
         "path_type": "pyc_file"
       }
     ],

@@ -17,6 +17,7 @@
   ],
   "fn": "libstdcxx-ng-9.1.0-hdf63c60_0.conda",
   "legacy_bz2_md5": "53fa39fdae936e9d07c4b2f5ef361993",
+  "legacy_bz2_size": 4246257,
   "license": "GPL3 with runtime exception",
   "link": {
     "source": "/home/hatadmin/miniconda3/pkgs/libstdcxx-ng-9.1.0-hdf63c60_0",

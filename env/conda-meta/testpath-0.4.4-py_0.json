@@ -9,23 +9,23 @@
   "extracted_package_dir": "/home/hatadmin/miniconda3/pkgs/testpath-0.4.4-py_0",
   "features": "",
   "files": [
-    "lib/python3.8/site-packages/testpath-0.4.4.dist-info/INSTALLER",
-    "lib/python3.8/site-packages/testpath-0.4.4.dist-info/LICENSE",
-    "lib/python3.8/site-packages/testpath-0.4.4.dist-info/METADATA",
-    "lib/python3.8/site-packages/testpath-0.4.4.dist-info/RECORD",
-    "lib/python3.8/site-packages/testpath-0.4.4.dist-info/WHEEL",
-    "lib/python3.8/site-packages/testpath/__init__.py",
-    "lib/python3.8/site-packages/testpath/asserts.py",
-    "lib/python3.8/site-packages/testpath/cli-32.exe",
-    "lib/python3.8/site-packages/testpath/cli-64.exe",
-    "lib/python3.8/site-packages/testpath/commands.py",
-    "lib/python3.8/site-packages/testpath/env.py",
-    "lib/python3.8/site-packages/testpath/tempdir.py",
-    "lib/python3.8/site-packages/testpath/__pycache__/__init__.cpython-38.pyc",
-    "lib/python3.8/site-packages/testpath/__pycache__/asserts.cpython-38.pyc",
-    "lib/python3.8/site-packages/testpath/__pycache__/commands.cpython-38.pyc",
-    "lib/python3.8/site-packages/testpath/__pycache__/env.cpython-38.pyc",
-    "lib/python3.8/site-packages/testpath/__pycache__/tempdir.cpython-38.pyc"
+    "lib/python3.6/site-packages/testpath-0.4.4.dist-info/INSTALLER",
+    "lib/python3.6/site-packages/testpath-0.4.4.dist-info/LICENSE",
+    "lib/python3.6/site-packages/testpath-0.4.4.dist-info/METADATA",
+    "lib/python3.6/site-packages/testpath-0.4.4.dist-info/RECORD",
+    "lib/python3.6/site-packages/testpath-0.4.4.dist-info/WHEEL",
+    "lib/python3.6/site-packages/testpath/__init__.py",
+    "lib/python3.6/site-packages/testpath/asserts.py",
+    "lib/python3.6/site-packages/testpath/cli-32.exe",
+    "lib/python3.6/site-packages/testpath/cli-64.exe",
+    "lib/python3.6/site-packages/testpath/commands.py",
+    "lib/python3.6/site-packages/testpath/env.py",
+    "lib/python3.6/site-packages/testpath/tempdir.py",
+    "lib/python3.6/site-packages/testpath/__pycache__/__init__.cpython-36.pyc",
+    "lib/python3.6/site-packages/testpath/__pycache__/asserts.cpython-36.pyc",
+    "lib/python3.6/site-packages/testpath/__pycache__/commands.cpython-36.pyc",
+    "lib/python3.6/site-packages/testpath/__pycache__/env.cpython-36.pyc",
+    "lib/python3.6/site-packages/testpath/__pycache__/tempdir.cpython-36.pyc"
   ],
   "fn": "testpath-0.4.4-py_0.tar.bz2",
   "license": "BSD-3-Clause",
@@ -126,23 +126,23 @@
         "size_in_bytes": 5246
       },
       {
-        "_path": "lib/python3.8/site-packages/testpath/__pycache__/__init__.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/testpath/__pycache__/__init__.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/testpath/__pycache__/asserts.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/testpath/__pycache__/asserts.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/testpath/__pycache__/commands.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/testpath/__pycache__/commands.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/testpath/__pycache__/env.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/testpath/__pycache__/env.cpython-36.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "lib/python3.8/site-packages/testpath/__pycache__/tempdir.cpython-38.pyc",
+        "_path": "lib/python3.6/site-packages/testpath/__pycache__/tempdir.cpython-36.pyc",
         "path_type": "pyc_file"
       }
     ],
