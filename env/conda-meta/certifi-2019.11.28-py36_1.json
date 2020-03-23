@@ -1,12 +1,12 @@
 {
-  "build": "py36_0",
-  "build_number": 0,
+  "build": "py36_1",
+  "build_number": 1,
   "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
   "constrains": [],
   "depends": [
     "python >=3.6,<3.7.0a0"
   ],
-  "extracted_package_dir": "/home/hatadmin/miniconda3/pkgs/certifi-2019.11.28-py36_0",
+  "extracted_package_dir": "/home/hatadmin/miniconda3/pkgs/certifi-2019.11.28-py36_1",
   "features": "",
   "files": [
     "lib/python3.6/site-packages/certifi-2019.11.28-py3.6.egg-info/PKG-INFO",
@@ -23,17 +23,15 @@
     "lib/python3.6/site-packages/certifi/cacert.pem",
     "lib/python3.6/site-packages/certifi/core.py"
   ],
-  "fn": "certifi-2019.11.28-py36_0.conda",
-  "legacy_bz2_md5": "ef80da728bdadaaab61124f0f306cafa",
-  "legacy_bz2_size": 159955,
+  "fn": "certifi-2019.11.28-py36_1.tar.bz2",
   "license": "ISC",
   "link": {
-    "source": "/home/hatadmin/miniconda3/pkgs/certifi-2019.11.28-py36_0",
+    "source": "/home/hatadmin/miniconda3/pkgs/certifi-2019.11.28-py36_1",
     "type": 1
   },
-  "md5": "b9785b5c712a93498f6753ed0b73d0c3",
+  "md5": "445c852374f7e4e8f806dbfa0277ecbb",
   "name": "certifi",
-  "package_tarball_full_path": "/home/hatadmin/miniconda3/pkgs/certifi-2019.11.28-py36_0.conda",
+  "package_tarball_full_path": "/home/hatadmin/miniconda3/pkgs/certifi-2019.11.28-py36_1.tar.bz2",
   "paths_data": {
     "paths": [
       {
@@ -131,11 +129,11 @@
     "paths_version": 1
   },
   "requested_spec": "None",
-  "sha256": "eb4116fc73c2766f0958f9b372fde5eb7b630fe7677f115ba4b2c64946446d41",
-  "size": 156500,
+  "sha256": "c3d1fb89021cad3f49c8a083f127a54d03a89ed83154d6ebe188d58857f75576",
+  "size": 160419,
   "subdir": "linux-64",
-  "timestamp": 1575390251400,
+  "timestamp": 1584971938832,
   "track_features": "",
-  "url": "https://repo.anaconda.com/pkgs/main/linux-64/certifi-2019.11.28-py36_0.conda",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/certifi-2019.11.28-py36_1.tar.bz2",
   "version": "2019.11.28"
 }

@@ -322,3 +322,10 @@
 +defaults/noarch::wcwidth-0.1.8-py_0
 +defaults/noarch::zipp-2.2.0-py_0
 # update specs: ['pandas', 'python=3.6.9', 'jupyter', 'matplotlib', 'scikit-learn=0.22', 'numpy']
+==> 2020-03-23 21:55:46 <==
+# cmd: /home/hatadmin/miniconda3/condabin/conda install --yes --prefix /home/hatadmin/Documents/ML/sample_project/env seaborn
+# conda version: 4.8.2
+-defaults/linux-64::certifi-2019.11.28-py36_0
++defaults/linux-64::certifi-2019.11.28-py36_1
++defaults/noarch::seaborn-0.10.0-py_0
+# update specs: ['seaborn']
